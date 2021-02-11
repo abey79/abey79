@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I write tools to help making generative art with drawing robots. My main projects are:
-- [*vpype*](/abey79/vpype): the Swiss-Army-knife command-line tool for plotter vector graphics
-- [*vsketch*](/abey79/vsketch): Python plotter generative art framework and workflow automation
+- [*vpype*](https://github.com/abey79/vpype): the Swiss-Army-knife command-line tool for plotter vector graphics
+- [*vsketch*](https://github.com/abey79/vsketch): Python plotter generative art framework and workflow automation
 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/abey79?style=social)
