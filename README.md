@@ -13,7 +13,7 @@ More plotter-related projects are hosted under the [Plotter Tools](https://githu
 
 I sometimes post project notes and other articles on my homepage at [bylr.info](https://bylr.info).
 
-![GitHub User's stars](https://img.shields.io/github/stars/abey79?affiliations=OWNER%2CORGANIZATION_MEMBER&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/abey79?affiliations=OWNER&style=social)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109250571411707276?domain=https%3A%2F%2Fmastodon.social&style=social)](https://mastodon.social/@abey79)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abey79?style=social)](https://twitter.com/abey79)
 [![ko-fi Donate](https://img.shields.io/badge/ko--fi-donate-yellow?style=social&logo=ko-fi)](https://ko-fi.com/abey79)
